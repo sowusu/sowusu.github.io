@@ -12,11 +12,11 @@
     
     
     <item>
-      <title></title>
-      <link>/posts/another-one/</link>
+      <title>Another one</title>
+      <link>/posts/another-1/</link>
       <pubDate>Fri, 02 Aug 2019 17:06:23 -0500</pubDate>
       
-      <guid>/posts/another-one/</guid>
+      <guid>/posts/another-1/</guid>
       <description>Another one</description>
     </item>
     
@@ -35,7 +35,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Nana Kwame Owusu Software Engineer, Financial Literacy Enthusiast, Musician, Lover and Fighter.</description>
+      <description>Nana Kwame Owusu I love avocados and foxes &amp;hellip;</description>
     </item>
     
     <item>
