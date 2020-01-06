@@ -35,7 +35,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sowusu.github.io/projects/</guid>
-      <description> Projects  Vue Calculator Simple calculator project to hammer home some Vue concepts:
+      <description> Projects Your browser does not support demo video.   Vue Calculator Simple calculator project to hammer home some Vue concepts:
  Vue component modules Simple Vue keyword usage: v-for, v-on, v-model, v-bind, etc. Custom Vue events and $emit-ing from child component Vue cli Velocity.js integration for blinker and button press animations     </description>
     </item>
     
